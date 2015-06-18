@@ -1,0 +1,19 @@
+offset: 201326593, matches found: 0
+offset: 402653185, matches found: 2
+offset: 603979777, matches found: 2
+offset: 805306369, matches found: 2
+offset: 1006632961, matches found: 2
+offset: 1207959553, matches found: 2
+offset: 1358954497, matches found: 2
+offset: 1509949441, matches found: 2
+offset: 1660944385, matches found: 2
+offset: 1811939329, matches found: 2
+offset: 1962934273, matches found: 2
+offset: 2113929217, matches found: 2
+offset: 2197815297, matches found: 2
+0 found 251
+0 found 259
+
+real	0m24.808s
+user	3m1.680s
+sys	0m0.259s
