@@ -17,8 +17,8 @@ const char * const KERNEL_NAME = "checkNumber";
 
 // These are more or less arbitrary.
 const uint64_t MAX_BUFFER_SIZE = 1ULL << 20;
-const size_t WORK_GROUP_SIZE = 1ULL << 24;
-const uint64_t MAX_OFFSET = 1ULL << 31;
+const size_t WORK_GROUP_SIZE = 1ULL << 12;
+const uint64_t MAX_OFFSET = 100000000000;
 
 const int ARGS_MATCHES = 0;
 const int ARGS_NUM_MATCHES = 1;
